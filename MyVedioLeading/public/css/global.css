@@ -1,0 +1,26 @@
+.tab
+{
+    font-size: 20px;
+
+}
+
+.divnormal
+{
+    float: left;
+    width: 120px;
+    height: 55px;
+    text-align: center;
+    line-height: 55px;
+    cursor:pointer;
+}
+
+.divnormalactive
+{
+    float: left;
+    width: 120px;
+    height: 55px;
+    text-align: center;
+    border-bottom: 3px solid #ffffff;
+    line-height: 55px;
+    cursor:pointer;
+}
